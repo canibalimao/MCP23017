@@ -196,7 +196,7 @@ if __name__ == '__main__':
           for i in s.readlines():
             stat += i
 
-      if station == "Idle":
+      if stat == "":
           mcp.output(0,0)
           mcp.output(1,1)
 
