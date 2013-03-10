@@ -14,7 +14,7 @@ Before try to run the script REBOOT YOUR RASPBERRY PI! If you don't get the resu
 
 
 
-To mount everything you'll need 5 push buttons, 2 leds [OPTIONAL] (one indicates the radio is off and the other indicates it's on) and 2 270R resistors to connect the LED's.
+To mount everything you'll need 5 push buttons and OPTIONAL 2 leds (one indicates the radio is off and the other indicates it's on) and 2 270R resistors to connect the LED's.
 
 The connection of the buttons is something like this:
 Stop button -> Pin GPA6
